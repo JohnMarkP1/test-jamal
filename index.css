@@ -1,0 +1,19 @@
+body{
+
+
+}
+
+.container{
+    background-color: rgb(5, 71, 71);
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: rgb(41, 41, 40);
+    width: 100px;
+    padding: 20px;
+    margin: 20px;
+}
